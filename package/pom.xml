@@ -31,7 +31,7 @@ RUN apt-get install -y dh-make gnupg pbuilder ubuntu-dev-tools bzr-builddeb apt-
         <groupId>org.trustedanalytics.atk</groupId>
         <artifactId>TrustedAnalytics</artifactId>
         <relativePath>../pom.xml</relativePath>
-        <version>master-SNAPSHOT</version>
+        <version>atk-spark1.4-SNAPSHOT</version>
     </parent>
 
     <properties>

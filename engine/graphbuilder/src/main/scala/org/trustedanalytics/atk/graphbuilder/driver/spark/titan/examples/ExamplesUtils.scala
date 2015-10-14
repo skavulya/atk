@@ -73,7 +73,7 @@ object ExamplesUtils {
       System.getProperty("user.dir") + "/target/scala-2.10/gb.jar",
       System.getProperty("user.dir") + "/gb.jar",
       // Maven build not working yet
-      System.getProperty("user.dir") + "/graphbuilder/target/graphbuilder-master-SNAPSHOT.jar",
+      System.getProperty("user.dir") + "/graphbuilder/target/graphbuilder-atk-spark1.4-SNAPSHOT.jar",
       System.getProperty("user.dir") + "/target/graphbuilder.jar",
       System.getProperty("user.dir") + "/graphbuilder.jar")
     possiblePaths.foreach(path => {

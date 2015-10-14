@@ -15,7 +15,7 @@
         <groupId>org.trustedanalytics.atk</groupId>
         <artifactId>TrustedAnalytics</artifactId>
         <relativePath>../../pom.xml</relativePath>
-        <version>master-SNAPSHOT</version>
+        <version>atk-spark1.4-SNAPSHOT</version>
     </parent>
 
     <build>

@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>event-api</artifactId>
-    <version>master-SNAPSHOT</version>
+    <version>atk-spark1.4-SNAPSHOT</version>
 
     <packaging>jar</packaging>
     <name>event-api (logging)</name>
@@ -14,7 +14,7 @@
         <groupId>org.trustedanalytics.atk</groupId>
         <artifactId>TrustedAnalytics</artifactId>
         <relativePath>../../pom.xml</relativePath>
-        <version>master-SNAPSHOT</version>
+        <version>atk-spark1.4-SNAPSHOT</version>
     </parent>
 
     <description>
